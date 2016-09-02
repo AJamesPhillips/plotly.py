@@ -3,6 +3,10 @@ All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
+### Added
+- Support for rendering plots in [nteract](https://nteract.io/)!
+  See [https://github.com/nteract/nteract/pull/662](https://github.com/nteract/nteract/pull/662)
+  for the associated PR in nteract.
 
 ### Changed
 - a `Grid` from `plotly.grid_objs` now accepts a `pandas.Dataframe` as its argument.
